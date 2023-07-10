@@ -1,2 +1,6 @@
  Hello World!
+<<<<<<< HEAD
 You are beautiful!
+=======
+You are wonderful
+>>>>>>> conflict
