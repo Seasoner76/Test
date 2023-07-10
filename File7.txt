@@ -1,6 +1,6 @@
  Hello World!
-<<<<<<< HEAD
-You are beautiful!
-=======
-You are wonderful
->>>>>>> conflict
+You are beautiful and wonderful
+
+Commit 1
+
+Commit 2
