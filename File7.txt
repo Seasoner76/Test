@@ -3,9 +3,6 @@ You are beautiful and wonderful
 
 Commit 1
 
-<<<<<<< HEAD
-=======
 Commit 2
 
-123456
->>>>>>> 05e31a075cbfc46a838845b6747b8b83723a2af2
+New tag
